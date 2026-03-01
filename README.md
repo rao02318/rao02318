@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Afnan 👋
 
-<!--
-**rao02318/rao02318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PF Student | Learning Python & Programming  
+💻 Beginner Developer  
+🚀 Currently learning GitHub & Freelancing  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Programming Fundamentals
+- Basic Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goal
+Learning skills to start freelancing on Fiverr.
